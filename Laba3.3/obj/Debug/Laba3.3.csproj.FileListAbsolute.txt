@@ -1,0 +1,6 @@
+C:\Users\grick\source\repos\Laba3.3\bin\Debug\Laba3.3.exe.config
+C:\Users\grick\source\repos\Laba3.3\bin\Debug\Laba3.3.exe
+C:\Users\grick\source\repos\Laba3.3\bin\Debug\Laba3.3.pdb
+C:\Users\grick\source\repos\Laba3.3\obj\Debug\Laba3.3.csprojAssemblyReference.cache
+C:\Users\grick\source\repos\Laba3.3\obj\Debug\Laba3.3.exe
+C:\Users\grick\source\repos\Laba3.3\obj\Debug\Laba3.3.pdb
